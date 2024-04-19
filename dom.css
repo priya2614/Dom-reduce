@@ -1,0 +1,39 @@
+div{
+    text-align: center;
+}
+
+
+ #head{
+    background-color: #e11a84;  
+    color: #111114;
+    border-radius: 20px;
+    text-shadow: 2px 3px #ffffff;
+    padding: 10px;
+    margin: 20px 50px ;
+    transition-duration: 2s;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+/* h2:hover{
+    transform: scale(0.9);
+} */
+#btn{
+    background-color: #0000ff;
+    color: #f5f5f5;
+    text-shadow: 2px 3px #000000;
+    padding: 6px;
+    border: 4px 4px groove ;
+    border-radius: 20px;
+    font-style: italic;
+    
+    
+} 
+ #priya{
+    background-color: #e11a84;  
+    color: #111114;
+    border-radius: 20px;
+    text-shadow: 2px 3px #ffffff;
+    padding: 10px;
+    margin: 20px 50px ;
+    transition-duration: 2s;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+ }
